@@ -13,7 +13,7 @@ int main()
 
 #第02周
 
-```1
+```c
 #include<stdio.h>
 int main()
 {
@@ -21,7 +21,7 @@ int main()
 }
 ```
 
-```2
+```c
 #include<stdio.h>
 int main()
 {
@@ -30,7 +30,7 @@ int main()
 }
 ```
 
-```3
+```c
 #include <stdio.h>
 int main()
 {
@@ -40,7 +40,7 @@ int main()
 }
 ```
 
-```4
+```c
 #include<stdio.h>
 int main()
 {
@@ -49,7 +49,7 @@ int main()
 }
 ```
 
-```5
+```c
 #include <stdio.h>
 int main()
 {
@@ -59,7 +59,7 @@ int main()
 }
 ```
 
-```6
+```c
 #include <stdio.h>
 int main()
 {
